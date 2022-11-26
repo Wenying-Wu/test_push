@@ -4,7 +4,7 @@ There are a lot of visualization tools available online and on the desktop. I am
 I am interested in whether there are changes in Australians’ consumption of different types of meat. The dataset I found includes data on meat consumption by many countries. It consists of the historical and forecast data from 1990 to 2026. So, I can choose the AUS region when visualizing.
 Chartblocks don’t have a built-in data cleaning function. The only way to check the abnormal values when using Chartblocks is to make graphs. Luckily, Chartblocks can build a chart in minutes with the easy-to-use chart designer. The data import wizard will take you through the process step by step, choose from dozens of chart types, then customize it from premade chart templates. Users can easily follow the guide to create a chart and edit the chart after finished as users’ needs. Users can even select colors by REB thus some company can easily use their brand colors.
  
-![Alt Text](https://github.com/Wenying-Wu/Data_Visualization/blob/main/src/chartblocks_figure1.gif)
+![Alt Text](https://github.com/Wenying-Wu/test_push/blob/main/src/chartblocks_figure1.gif)
 
 Figure 1: Creating Chart in Chartblocks
 
